@@ -1,6 +1,8 @@
 # YouTube Desktop by Markella's
 
 This open source app made by me in Electron is YouTube client for Windows. I'm also working on such client for Linux/macOS.
+
+If you want to download and use this app, go to releases and download Setup.exe, because I couldn't upload all project files via Code section in this repository (because of files size limitations)
 ![App screenshot](https://user-images.githubusercontent.com/105635627/168561235-d478654b-6dc9-4ad1-aa85-fe7c46ae92b1.jpg)
 ![App working on Windows 11](https://user-images.githubusercontent.com/105635627/168561654-3e270b5e-76b4-42a2-bbf3-f03b40c3eb7b.jpg)
 
